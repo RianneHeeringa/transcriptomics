@@ -1,4 +1,11 @@
-# transcriptomics
+# Genexpressie bij reuma
+![image](https://github.com/user-attachments/assets/6da2d9cb-315a-4ea1-a778-6e86430bd666)
+
+Rianne Heeringa (5144086)
+LBM2A
+J2P4
+20-06-2025
+
 ## 📁 Inhoud/structuur
 
 - `data/raw/` – fictionele datasets voor de analyse van spreuk effectiviteit, gevaar en welke spreuken het beste samengaan met verschillende types staf.  
